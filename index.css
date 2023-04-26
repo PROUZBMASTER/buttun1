@@ -70,3 +70,10 @@ section {
     transform-origin: bottom;
     mix-blend-mode: multiply;
 }
+
+@media (max-width: 575px) {
+    .btn1 {
+        scale: 0.7;
+    }
+   
+    }
